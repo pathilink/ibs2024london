@@ -1,0 +1,15 @@
+# UK websites
+
+* [UK Data Service](https://ukdataservice.ac.uk/learning-hub/)
+* [Government Recommended Training](https://www.gov.uk/government/publications/data-science-accelerator-programme/introduction-to-the-data-science-accelerator-programme)
+* [National Data Strategy](https://www.gov.uk/government/publications/uk-national-data-strategy/national-data-strategy)
+* [Find Open Data](https://www.data.gov.uk/)
+* [IBM Datathon](https://imperialdatasoc.co.uk/hackathons/)
+* [The AI Summit London](https://london.theaisummit.com/whats-on/hackathon)
+* [Hackathons UK](https://www.hackathons.org.uk/)
+* [Data Science Campus](https://datasciencecampus.ons.gov.uk/)
+* [Learn Kaggle](https://www.kaggle.com/)
+* [Learn Microsoft AI Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/exams/ai-900/)
+* [YouTube: Microsoft Learn TV](https://www.youtube.com/@MicrosoftLearn/videos)
+* [365 Data Science](https://www.youtube.com/@365DataScience)
+* [Competition: CrowdAnalytix](https://www.crowdanalytix.com/community)
