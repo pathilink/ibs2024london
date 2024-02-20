@@ -1,6 +1,6 @@
-# Applied Data Science for Business
-
 ![ibs pearson](img/ibs2024london.png)
+
+# Applied Data Science for Business
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=INCOMPLETE&color=eed202)
 
