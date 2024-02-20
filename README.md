@@ -10,4 +10,4 @@
 
 ## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-ee7d03.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-750014.svg)](https://opensource.org/licenses/MIT)
